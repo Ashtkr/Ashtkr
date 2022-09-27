@@ -7,7 +7,7 @@ Programmer | Developer | Learner
 
 - 🔭 I’m currently doing apprenticeship on **Full-Stack Development** at [Crio.do](https://www.crio.do/)
 
-- 🌱 I’m currently mastering how to make awesome website.
+- 🌱 Using my skills to make awesome website.
 
 - 👯 I’m looking to collaborate on **Open Source**
 
