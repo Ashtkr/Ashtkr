@@ -15,8 +15,6 @@ Programmer | Developer | Learner
 
 - 📫 How to reach me **ashtsh711@gmail.com**
 
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
-
 ### Connect with me:
 
 [<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
