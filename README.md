@@ -5,7 +5,7 @@ Programmer | Developer | Learner
 
 ></h3>
 
-- 🔭 I’m currently doing apprenticeship on **Full-Stack Development** at [Crio.do](https://www.crio.do/)
+- 🔭 I’m currently doing apprenticeship in **Full-Stack Development** at [Crio.do](https://www.crio.do/)
 
 - 🌱 Using my skills to make awesome website.
 
