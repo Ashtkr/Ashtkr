@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="" height="55px" width="55px">, I'm Ashutosh Kumar </h1>
+<h1 align="center">Hi <img src="https://github.com/Ashtkr/Ashtkr/blob/main/Wave.gif" height="55px" width="55px">, I'm Ashutosh Kumar </h1>
 <h3 align="center">¯\_(ツ)_/¯
 
 Programmer | Developer | Learner
