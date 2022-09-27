@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://github.com/Ashtkr/Ashtkr/blob/main/Wave.gif" height="55px" width="55px">, I'm Ashutosh Kumar </h1>
-<h3 align="center">¯\_(ツ)_/¯
+<h3 align="center">
 
 Programmer | Developer | Learner
 
-?></h3>
+></h3>
 
 - 🔭 I’m currently doing apprenticeship on **Full-Stack Development** at [Crio.do](https://www.crio.do/)
 
