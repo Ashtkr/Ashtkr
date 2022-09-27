@@ -38,7 +38,7 @@ Programmer | Developer | Learner
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
-### Profile Visito
+### Profile Visitor
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ashtsh711.visitor-badge&left_color=Green&right_color=yellow)
 <br />
 
